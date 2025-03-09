@@ -1,0 +1,4 @@
+1. 1st you have to visit "GSAP" website and git the cdn link,
+   npm package or some kind of other stuff.
+
+2. Then you can link your project with "GSAP".
